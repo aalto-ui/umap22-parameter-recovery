@@ -4,7 +4,7 @@
 
 **Copyright (c) 2021 Aalto University. All rights reserved.**
 
-Code repository accompanying the UMAP'22 paper entitled "How Suitable is Your Naturalistic Dataset for Theory-based User Modeling?", licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/deed.en). 
+Code repository accompanying the UMAP'22 paper entitled "How Suitable is Your Naturalistic Dataset for Theory-based User Modeling?", licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0). 
 
 Please run the following commands to use the attached notebook, or use your own environment:
 
